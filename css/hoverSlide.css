@@ -1,0 +1,15 @@
+
+/* 时间轴样式 */
+.course_nr{ height: 162px; background: url(../images/ico9.gif) repeat-x center; margin: 0px auto; width: 800px; }
+.course_nr li{ float:left; background: url(../images/ico10.gif) no-repeat center top; padding-top:30px; width:140px; text-align:center; position:relative; margin-top:65px;}
+.shiji{ position:absolute; width:100%; left:0; top:-20px; display:none;}
+.shiji h1{font-size: 30px; height: 67px; line-height: 67px; color: #426579; font-weight: bold; background: url(../images/ico11.gif) no-repeat center top; margin-bottom: 8px; text-align: center; }
+.shiji p{ font-size:30px;line-height: 30px; color: #426579; text-align: center; }
+
+.hoverSlide {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+  height: 400px;
+  text-align: center;
+}

@@ -1,0 +1,35 @@
+/* error page setting(xiejiahong)  */
+body{
+	background-color: #F8EAD5;
+}
+#top_banner{
+	width: 800px;
+	margin: auto;
+	margin-top: 50px;
+	/*background-color: gray;*/
+	text-align: center;
+	font-weight: bold;
+	color: green;
+	font-size: 200%;
+}
+#error{
+	width: 800px;
+	height: 300px;
+	border: 5px solid white;
+	background-color: white;
+	margin: auto;
+	margin-top: 50px;
+	padding-top: 50px;
+	text-align: center;
+	font-weight: bold;
+	color: red;
+	font-size: 150%;
+
+}
+#error .button{
+	margin-top: 30px;
+	width: 130px;
+	height: 40px;
+	font-weight: bold;
+	font-size: 120%;
+}

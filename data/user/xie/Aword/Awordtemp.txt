@@ -1,0 +1,4 @@
+abruptly   adv.突然地|0
+abortive   adj.无效果的，失败的|1
+abroad   adv.国外，海外|1
+absence   n.缺席，缺乏|0

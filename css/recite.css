@@ -1,0 +1,16 @@
+.navbar button{
+	margin-left: 10px;
+}
+body{
+	background-color: #1bbc9b;
+}
+.wrapper{
+	padding-top: 20px;
+	
+}
+#container {
+    padding-right: 200px;
+    padding-left: 200px;
+    margin-right: auto;
+    margin-left: auto;
+}

@@ -1,0 +1,32 @@
+.navbar button{
+	margin-left: 10px;
+}
+body{
+	background-color: #1bbc9b;
+}
+.wrapper{
+	padding-top: 20px;
+	
+}
+#container {
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*#user_info{
+	width: 1000px;
+	height: 500px;
+	margin: auto;
+	margin-top: 30px;
+	padding: 20px;
+	background-color: white;
+
+}
+table{
+
+	width: 60%;
+	margin: 20px;
+	text-align: center;
+}*/

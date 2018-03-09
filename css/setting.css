@@ -1,0 +1,24 @@
+.navbar button{
+	margin-left: 10px;
+}
+body{
+	background-color: #1bbc9b;
+}
+.wrapper{
+	padding-top: 20px;
+}
+
+#CheckInfo,
+#CheckPassWord,
+#CheckPassWordEnsure,
+#CheckEmail{
+	visibility: hidden;
+	color: red;
+	font-weight: bold;
+}
+.h1{
+	color: #FFF;
+	margin-top: 100px;
+	text-align: center;
+}
+
